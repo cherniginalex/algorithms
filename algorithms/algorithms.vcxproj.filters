@@ -15,4 +15,9 @@
   <ItemGroup>
     <ClCompile Include="main.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="random_generator.h">
+      <Filter>utils</Filter>
+    </ClInclude>
+  </ItemGroup>
 </Project>
